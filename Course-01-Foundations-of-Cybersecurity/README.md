@@ -1,5 +1,6 @@
 # Course 1 – Foundations of Cybersecurity
 
+## Course overview
 This course introduced the cybersecurity field, common threats, security principles, and tools used by security teams.
 
 ## What the course covered
@@ -34,4 +35,4 @@ The course gave me a starting point for understanding how organisations protect 
 ## Certificate
 
 **Foundations of Cybersecurity** – Google Career Certificates.  
-[View Verified Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f)
+[View Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f)
