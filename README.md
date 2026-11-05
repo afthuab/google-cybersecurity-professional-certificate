@@ -4,6 +4,8 @@ This repo contains my notes and work from the Google Cybersecurity Professional 
 
 I'm using it to keep track of what I learn about security fundamentals, networks, Linux, SQL, threat detection, incident response, and Python.
 
+This repo contains individual folders for each course in the Google Cybersecurity Professional Certificate course. I'll add each course as I work through it.
+
 ## Course progress
 
 | Course | Status |
@@ -17,11 +19,6 @@ I'm using it to keep track of what I learn about security fundamentals, networks
 | 7. Automate Cybersecurity Tasks with Python | Not started |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | Not started |
 | 9. Accelerate Your Job Search with AI | Not started |
-
-## Repository structure
-This repo contains individual folders foe each course in the Google Cybersecurity Professional Certificate course.
-
-I'll add each course as I work through it. The notes and examples are written here for learning purposes.
 
 ## Certificate
 
