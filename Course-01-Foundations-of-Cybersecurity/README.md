@@ -34,5 +34,6 @@ The course gave me a starting point for understanding how organisations protect 
 
 ## Certificate
 
-**Foundations of Cybersecurity** – Google Career Certificates.  
-[View Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f)
+**Foundations of Cybersecurity**  
+Provider: Google Career Certificates  
+[View Course 1 Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f)

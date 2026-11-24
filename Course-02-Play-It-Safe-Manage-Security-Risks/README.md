@@ -40,6 +40,7 @@ The main portfolio activity in this course is a security audit. The audit in thi
 
 ## Certificate
   
-**Play It Safe: Manage Security Risks** – Google Career Certificates.  
-[View Certificate](https://coursera.org/share/6ec256de0ed8bb05f9867fda5a89922b)
+**Play It Safe: Manage Security Risks**  
+Provider: Google Career Certificates  
+[View Course 2 Certificate](https://coursera.org/share/6ec256de0ed8bb05f9867fda5a89922b)
 
