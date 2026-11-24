@@ -10,8 +10,8 @@ This repo contains individual folders for each course in the Google Cybersecurit
 
 | Course | Status | Certificate
 |---|---| --- |
-| 1. [Foundations of Cybersecurity](./Course-01-Foundations-of-Cybersecurity\README.md) | Completed | [View  Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f) |
-| 2. [Play It Safe: Manage Security Risks](./Course-02-Play-It-Safe-Manage-Security-Risks/README.md) | Completed |[View Certificate](https://coursera.org/share/6ec256de0ed8bb05f9867fda5a89922b) |
+| 1. [Foundations of Cybersecurity](Course-01-Foundations-of-Cybersecurity\README.md) | Completed | [View  Certificate](https://coursera.org/share/506de7235c30e27097d1d2b76ff8e80f) |
+| 2. [Play It Safe: Manage Security Risks](Course-03-Connect-and-Protect-Networks-and-Network-Security\README.md) | Completed |[View Certificate](https://coursera.org/share/6ec256de0ed8bb05f9867fda5a89922b) |
 | 3. [Connect and Protect: Networks and Network Security](./Course-03-Connect-and-Protect-Networks-and-Network-Security\README.md) | in Progress |[View Certificate](https://coursera.org/share/3d71ffca342f740dbd02d81053e952c1) |
 | 4. Tools of the Trade: Linux and SQL | Not started |
 | 5. Assets, Threats, and Vulnerabilities | Not started |
